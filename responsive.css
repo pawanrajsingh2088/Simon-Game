@@ -1,0 +1,17 @@
+@media only screen and (max-width:1000px){
+    .boxes{
+        height: 25vh;
+        width: 25vw;
+        margin: 15px;
+    }
+}
+@media only screen and (max-width:500px) {
+    .boxes{
+        height: 20vh;
+        width: 20vh;
+        margin: 7px;
+    }
+    h1{
+        font-size: 25px;
+    }
+}
