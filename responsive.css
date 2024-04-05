@@ -20,7 +20,10 @@
         justify-content: center;
         align-items: center;
     }
-    .rule{
+        .head_rule{
         font-size: 5vh;
+    }
+    .rule{
+        font-size: 3vh;
     }
 }
