@@ -14,4 +14,13 @@
     h1{
         font-size: 25px;
     }
+    .rules_page{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .rule{
+        font-size: 5vh;
+    }
 }

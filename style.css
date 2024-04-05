@@ -30,3 +30,20 @@ body{
 .flash{
     background-color: white;
 }
+#btn{
+    margin: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #79c09d;
+    font-size: 20px;
+    cursor: pointer;
+}
+.head_rule{
+    font-size: 7vh;
+    margin: 20px;
+}
+.rule{
+    font-size: 3vh;
+    margin: 20px;
+    font-weight: 550;
+}
